@@ -5,6 +5,11 @@
   body {
     font-family: Arial, Helvetica, sans-serif;
   }
+
+  a {
+    display: inline-block;
+    width: 100%;
+  }
   
   .header {
     padding: 10px;
